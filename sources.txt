@@ -1,1 +1,3 @@
-
+https://www.metalevel.at/queens/
+http://swish.swi-prolog.org/example/queens.pl
+https://gist.github.com/noiano/924ea01419a2dd03e0ba
